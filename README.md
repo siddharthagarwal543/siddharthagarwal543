@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **siddharthagarwal543@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uPdi4Obw4Qr1B9F2-KA5ZLQO_oQ7AVTf/view?usp=sharing](https://drive.google.com/file/d/1uPdi4Obw4Qr1B9F2-KA5ZLQO_oQ7AVTf/view?usp=sharing)
-
 - ⚡ Fun fact **I think i am good in meme marketing**
 
 <h3 align="left">Connect with me:</h3>
