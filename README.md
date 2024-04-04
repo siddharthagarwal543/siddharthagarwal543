@@ -2,11 +2,11 @@
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
-- 🔭 I’m currently working on [Alumni portal using React Js](https://youtu.be/i4ZuAhs2gzk)
+- 🔭 I’m currently working as Site Reliablity Engineer Intern at State Street
 
-- 🌱 I’m currently learning **React Js and Machine learning**
+- 🌱 I’m currently learning **Full Stack and Js based Frameworks**
 
-- 👯 I’m looking to collaborate on **React Js based projects**
+- 👯 I’m looking to collaborate on **Full stack projects**
 
 - 💬 Ask me about **Data structures and Algorithms, Problem Solving**
 
